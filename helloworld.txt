@@ -1,3 +1,5 @@
 Relearning Web Development through the Odin Project!
 
 Hello Odin!
+
+Adding this texts and committing with a long body of commit. 
